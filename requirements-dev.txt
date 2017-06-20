@@ -1,0 +1,5 @@
+-rrequirements.txt
+pytest
+jedi
+flake8
+pytest-watch
